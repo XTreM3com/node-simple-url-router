@@ -1,0 +1,23 @@
+{
+  "name": "simple-url-router",
+  "version": "0.1.0",
+  "description": "A simple and lightweight router for url paths",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "http",
+    "url",
+    "path",
+    "router",
+    "simple",
+    "lightweight"
+  ],
+  "author": "XTreM3com <me@xtrem3.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/XTreM3com/node-simple-url-router.git"
+  }
+}
